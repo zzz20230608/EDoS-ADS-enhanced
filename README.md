@@ -38,6 +38,7 @@ provided to compile and to run CloudSim applications:
   * jars/cloudsim-<VERSION>-sources.jar            -- contains the CloudSim source code files
   * jars/cloudsim-examples-<VERSION>.jar           -- contains the CloudSim examples class files
   * jars/cloudsim-examples-<VERSION>-sources.jar   -- contains the CloudSim examples source code files
+  * jars/cloudsim-examples-<VERSION>-sources.jar   -- contains the CloudSim examples source code files
 
 
 4. Running the EDoS-ADS code
